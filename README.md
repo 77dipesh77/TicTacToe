@@ -1,2 +1,2 @@
 # TicTacToe
-Sparsh Tripathi
+Dipesh Sah
